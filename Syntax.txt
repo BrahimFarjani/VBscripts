@@ -1,0 +1,13 @@
+VBScript Syntax for MsgBox:
+
+Format: MsgBox(prompt, buttons, title)
+prompt: Text displayed in the message box.
+buttons: Determines the buttons and icons shown (e.g., 4+64 for Yes/No and Critical icon).
+title: Title of the message box.
+Message Box Styles:
+
+vbCritical (64): Critical icon.
+vbQuestion (32): Question mark icon.
+vbExclamation (48): Exclamation icon.
+vbInformation (64): Information icon.
+Button Options: vbOKCancel (1), vbYesNo (4), vbRetryCancel (5).
